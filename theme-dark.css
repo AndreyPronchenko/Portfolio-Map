@@ -1,0 +1,46 @@
+body{
+    background: black;
+}
+
+
+h1, 
+p, 
+h3, 
+h4, 
+.header_two_5, 
+span,
+h2,
+li,
+.header_two_3,
+.header_two_4{
+    color: white;
+}
+
+
+.two_5, .two_4, .title3, .one{
+    background: black;
+}
+
+.m .two_3{
+    background-color: black;
+}
+
+.icon img,
+.icon1 img, 
+.kart img{
+    filter: invert(1);
+}
+
+.col, .tab{
+    border: 2px solid white;
+    /* filter: brightness(0) invert(20); */
+}
+
+
+
+.popup h1, 
+.popup p{
+    color: black;
+}
+
+
